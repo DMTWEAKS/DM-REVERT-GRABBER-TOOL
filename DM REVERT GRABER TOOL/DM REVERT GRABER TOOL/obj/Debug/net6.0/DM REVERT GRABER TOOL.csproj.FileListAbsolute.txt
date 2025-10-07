@@ -1,0 +1,14 @@
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\bin\Debug\net6.0\DM REVERT GRABER TOOL.exe
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\bin\Debug\net6.0\DM REVERT GRABER TOOL.deps.json
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\bin\Debug\net6.0\DM REVERT GRABER TOOL.runtimeconfig.json
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\bin\Debug\net6.0\DM REVERT GRABER TOOL.dll
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\bin\Debug\net6.0\DM REVERT GRABER TOOL.pdb
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.AssemblyInfoInputs.cache
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.AssemblyInfo.cs
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.csproj.CoreCompileInputs.cache
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.dll
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\refint\DM REVERT GRABER TOOL.dll
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.pdb
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\DM REVERT GRABER TOOL.genruntimeconfig.cache
+C:\Users\dm\source\repos\DM REVERT GRABER TOOL\DM REVERT GRABER TOOL\obj\Debug\net6.0\ref\DM REVERT GRABER TOOL.dll
